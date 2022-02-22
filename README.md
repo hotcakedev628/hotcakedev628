@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Intro
-A professional web developer for 9+ years working in both front end and back. Having solid experience in developing beautiful, reliable, and scalable products. Proficiency in JavaScript, TypeScript, React, Redux, Node, Headless, ECMAScript, and dedicated to delivering high quality code, shipping complex features on time.
+A professional web developer for 9+ years working in both back and front end. Having solid experience in developing beautiful, reliable, and scalable products. Proficiency in JavaScript, TypeScript, React, Redux, Node, Headless, ECMAScript, and dedicated to delivering high quality code, shipping complex features on time.
 Proved hands-on UI/UX of a project which means that his implementations are always pixel-perfect and keeping up to date with industry standards in design and best-practices.
 
 #### Interests 🤪
